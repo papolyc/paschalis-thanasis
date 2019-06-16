@@ -63,12 +63,6 @@
 	  
 	  <img alt="me" src="logotipo.png"height="106" width="200"/>
 	  <br> <br> 
-	      <head>
-<body background="background.jpg">
-<style>
-body {
-background-size:1550px 1080px;}
-</style>
 	 		<form name="myForm" action="" onSubmit="return
 validateForm()" method="post">
 <b style="color:black"</b>Δώστε όνομα:
@@ -114,7 +108,7 @@ validateForm()" method="post">
                 <div class="table-responsive">  
                      <table class="table table-bordered">  
                           <tr>  
-                               <th width="40%">ΟΝΟΜΑ</th>  
+                               <th width="40%">ΠΡΟΙΟΝ</th>  
                                <th width="10%">ΠΟΣΟΤΗΤΑ</th>  
                                <th width="20%">ΤΙΜΗ</th>  
                                <th width="15%">ΣΥΝΟΛΙΚΑ</th>  
