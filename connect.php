@@ -4,7 +4,7 @@
 $user = 'root';
 $pass = '';
 
-$db ='solutioncone'; 
+$db ='e-shop'; 
 
 $db = new mysqli('localhost', $user, $pass, $db) or die("Unable to connect");
 
